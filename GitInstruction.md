@@ -125,7 +125,7 @@ git clone https://github.com/tutorialzine/awesome-project new-folder
 
 This is only an example. Replace the URI with your own repository address.
 
-$ git remote add origin https://github.com/tutorialzine/awesome-project.git
+**git remote add origin https://github.com/tutorialzine/awesome-project.git**
 
 Проект может иметь несколько удаленных репозиториев одновременно. Чтобы их различать, дают разные имена. Обычно главный репозиторий называется origin.
 
