@@ -14,3 +14,5 @@ Let's start our introduction to version control
 **жирный** 
 
 ***жирный курсив***
+
+Ввод изменений в другой ветке
