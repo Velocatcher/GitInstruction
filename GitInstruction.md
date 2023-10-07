@@ -342,6 +342,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 git pull
 ```
 Необходимо обратить внимание, что pull сщставная команда, она не только скачает все обновления, но и попытается смёржить все ветки.
+*****Здесь
 
 ## Работа с удаленными репозиториями в git
 Как сделать pull request
